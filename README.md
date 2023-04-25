@@ -2,5 +2,5 @@
 
 Quiz Project
 
-## Getting Started
+
 
